@@ -5,6 +5,70 @@ body{
 }
 
 .count-logo{
+    width: 180px;
+    display: block;
+    margin: 5px auto;
+}
+
+.counter{
+    background-color: $custom-black;
+    color: $custom-green;
+    height: 250px;
+    width: 380px;
+    margin: 2px auto;
+    border: 3px solid $custom-dark-green;
+    border-radius: 10px;
+
+    header{
+        width: 95%;
+        height: 25px;
+        border-bottom: 1px solid $custom-green;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        font-size: 0.7em;
+        font-weight: bold;
+    }
+
+    .counter-value-container{
+        height: 190px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 1px solid $custom-green;
+        p{
+            font-size: 3.4em;
+            text-shadow: 3px 3px 8px rgb(21, 255, 0);
+        }
+    }
+
+    .counter-commands{
+        height: 25px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        button{
+            background-color: $custom-black;
+            color: $custom-green;
+            border: 0px;
+            cursor: pointer;
+        }
+        .basic-cmd-container{
+            width: 60px;
+            display: flex;
+            justify-content: space-around;
+            button{
+                font-size: 1.3em;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 700px){
+    .count-logo{
     width: 200px;
     display: block;
     margin: 10px auto;
@@ -65,4 +129,5 @@ body{
             }
         }
     }
+}
 }
