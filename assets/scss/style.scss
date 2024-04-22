@@ -13,32 +13,32 @@ body{
 .counter{
     background-color: $custom-black;
     color: $custom-green;
-    height: 250px;
-    width: 380px;
+    height: 200px;
+    width: 280px;
     margin: 2px auto;
     border: 3px solid $custom-dark-green;
     border-radius: 10px;
 
     header{
         width: 95%;
-        height: 25px;
+        height: 20px;
         border-bottom: 1px solid $custom-green;
         margin: auto;
         display: flex;
         align-items: center;
-        font-size: 0.7em;
+        font-size: 0.6em;
         font-weight: bold;
     }
 
     .counter-value-container{
-        height: 190px;
+        height: 150px;
         width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
         border-bottom: 1px solid $custom-green;
         p{
-            font-size: 3.4em;
+            font-size: 3.2em;
             text-shadow: 3px 3px 8px rgb(21, 255, 0);
         }
     }
@@ -57,7 +57,7 @@ body{
             cursor: pointer;
         }
         .basic-cmd-container{
-            width: 60px;
+            width: 50px;
             display: flex;
             justify-content: space-around;
             button{
@@ -67,7 +67,7 @@ body{
     }
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 900px){
     .count-logo{
     width: 200px;
     display: block;
