@@ -78,32 +78,32 @@ body{
 .counter{
     background-color: $custom-black;
     color: $custom-green;
-    height: 300px;
-    width: 450px;
+    height: 500px;
+    width: 700px;
     margin: 2px auto;
     border: 3px solid $custom-dark-green;
     border-radius: 10px;
 
     header{
         width: 95%;
-        height: 30px;
+        height: 50px;
         border-bottom: 1px solid $custom-green;
         margin: auto;
         display: flex;
         align-items: center;
-        font-size: 0.8em;
+        font-size: 1em;
         font-weight: bold;
     }
 
     .counter-value-container{
-        height: 230px;
+        height: 400px;
         width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
         border-bottom: 1px solid $custom-green;
         p{
-            font-size: 3.6em;
+            font-size: 8em;
             text-shadow: 3px 3px 8px rgb(21, 255, 0);
         }
     }
