@@ -31,7 +31,7 @@ body{
     }
 
     .counter-value-container{
-        height: 165px;
+        height: 155px;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -44,7 +44,7 @@ body{
     }
 
     .counter-commands{
-        height: 30px;
+        height: 40px;
         width: 100%;
         display: flex;
         justify-content: space-between;
@@ -57,11 +57,12 @@ body{
             cursor: pointer;
         }
         .basic-cmd-container{
-            width: 50px;
+            width: 60px;
             display: flex;
             justify-content: space-around;
+            align-items: center;
             button{
-                font-size: 1.1em;
+                font-size: 1.2em;
             }
         }
     }
