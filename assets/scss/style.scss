@@ -13,8 +13,8 @@ body{
 .counter{
     background-color: $custom-black;
     color: $custom-green;
-    height: 200px;
-    width: 280px;
+    height: 220px;
+    width: 340px;
     margin: 2px auto;
     border: 3px solid $custom-dark-green;
     border-radius: 10px;
@@ -31,20 +31,20 @@ body{
     }
 
     .counter-value-container{
-        height: 150px;
+        height: 165px;
         width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
         border-bottom: 1px solid $custom-green;
         p{
-            font-size: 3.2em;
+            font-size: 3.5em;
             text-shadow: 3px 3px 8px rgb(21, 255, 0);
         }
     }
 
     .counter-commands{
-        height: 25px;
+        height: 30px;
         width: 100%;
         display: flex;
         justify-content: space-between;
