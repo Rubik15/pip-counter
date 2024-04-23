@@ -13,7 +13,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Vedi la Documentazione »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://rubik15.github.io/pip-counter/)">PROVALO</a>
+    <a href="https://rubik15.github.io/pip-counter/">PROVALO</a>
     ·
   </p>
 </div>
