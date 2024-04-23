@@ -27,9 +27,9 @@
 
 ### Sviluppato con
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+* <a href="www.html.com">HTML</a>
+* <a href="www.css.com">CSS</a>
+* <a href="www.javascript.com">Javascript</a>
 
 <p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
