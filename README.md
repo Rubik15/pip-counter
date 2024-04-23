@@ -10,56 +10,56 @@
     Pip counter è una semplice pagina web che contiene un contatore ispirato al mondo di Fallout.
     Il progetto è stato sviluppato come esercizio del corso Javascript Basic di Start2Impact.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Vedi la Documentazione »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Riporta Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Richiedi funzionalità</a>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Contenuti</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sul Progetto</a>
       <ul>
         <li><a href="#built-with">Sviluppato con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Iniziare</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#usage">Uso</a></li>
+    <li><a href="#license">Licenza</a></li>
+    <li><a href="#contact">Contatti</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sul Progetto
 
 ![pip-screen](https://github.com/Rubik15/pip-counter/assets/163205794/a823e8e7-5176-4890-af24-2283c5b7e636)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
-### Built With
+### Sviluppato con
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Iniziare
 
 Il contatore ha una sezione in basso contenente i comandi:
 
@@ -69,18 +69,18 @@ Il contatore ha una sezione in basso contenente i comandi:
 - -: diminuisce di 1 il valore del contatore (sono ammessi anche volori negativi).
 
 <!-- LICENSE -->
-## License
+## Licenza
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuito sotto licenza MIT. Vedi `LICENSE.txt` per maggiori informazioni.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contatti
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Link progetto: [https://github.com/github_username/repo_name]([https://github.com/github_username/repo_name](https://github.com/Rubik15/pip-counter))
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
