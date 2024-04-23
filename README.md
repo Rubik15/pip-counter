@@ -13,33 +13,10 @@
     <a href="https://github.com/github_username/repo_name"><strong>Vedi la Documentazione »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">Demo</a>
+    <a href="[https://github.com/github_username/repo_name](https://rubik15.github.io/pip-counter/)">PROVALO</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Riporta Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Richiedi funzionalità</a>
   </p>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Contenuti</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sul Progetto</a>
-      <ul>
-        <li><a href="#built-with">Sviluppato con</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Iniziare</a>
-    </li>
-    <li><a href="#usage">Uso</a></li>
-    <li><a href="#license">Licenza</a></li>
-    <li><a href="#contact">Contatti</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
