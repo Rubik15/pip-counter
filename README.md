@@ -10,11 +10,10 @@
     Pip counter è una semplice pagina web che contiene un contatore ispirato al mondo di Fallout.
     Il progetto è stato sviluppato come esercizio del corso Javascript Basic di Start2Impact.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Vedi la Documentazione »</strong></a>
+    <a href="https://github.com/Rubik15/pip-counter"><strong>Vedi la Documentazione »</strong></a>
     <br />
     <br />
     <a href="https://rubik15.github.io/pip-counter/">PROVALO</a>
-    ·
   </p>
 </div>
 
@@ -55,7 +54,7 @@ Distribuito sotto licenza MIT. Vedi `LICENSE.txt` per maggiori informazioni.
 <!-- CONTACT -->
 ## Contatti
 
-Link progetto: [https://github.com/github_username/repo_name]([https://github.com/github_username/repo_name](https://github.com/Rubik15/pip-counter))
+Link progetto: [https://github.com/github_username/repo_name](https://github.com/Rubik15/pip-counter)
 
 <p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
