@@ -51,12 +51,6 @@ Distribuito sotto licenza MIT. Vedi `LICENSE.txt` per maggiori informazioni.
 
 <p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
-<!-- CONTACT -->
-## Contatti
-
-Link progetto: [https://github.com/github_username/repo_name](https://github.com/Rubik15/pip-counter)
-
-<p align="right">(<a href="#readme-top">Torna all'inizio</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
