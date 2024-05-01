@@ -8,20 +8,27 @@ randBtn.addEventListener('click', randValue);
 plusBtn.addEventListener('click', addValue);
 minusBtn.addEventListener('click', subValue);
 
+let value = 0;
+
+
 function resetValue(){
-    document.getElementById("count-value").innerHTML = 0;
+    value = 0;
+    document.getElementById("count-value").innerHTML = value;
 }
 
 function randValue(){
-    document.getElementById("count-value").innerHTML = getRandInt(100000000);
+    value = getRandInt(100000000);
+    document.getElementById("count-value").innerHTML = value;
 }
 
 function addValue(){
-    document.getElementById("count-value").innerHTML++;
+    value++;
+    document.getElementById("count-value").innerHTML = value;
 }
 
 function subValue(){
-    document.getElementById("count-value").innerHTML--;
+    value--;
+    document.getElementById("count-value").innerHTML = value;
 }
 
 
